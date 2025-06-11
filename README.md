@@ -1,5 +1,3 @@
----
-
 ## ✨ **Hello, I'm Nikhil Agarwal (a.k.a Radhe Nikhil)!** 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=radheradhenikhil\&color=blueviolet)
@@ -17,9 +15,8 @@ A coder by passion, a dreamer by soul, I love turning ideas into reality — one
 
 ## 💼 Current Roles
 
-* 🚀 **Contributor @ GirlScript Summer of Code (GSSoC) 2024 - Extended Edition**
 * 🎓 **Intern @ IIT Kanpur**
-* 🤝 **Campus Ambassador @ E-Cell IIT Bombay**
+* 🚀 **Contributor @ GirlScript Summer of Code (GSSoC) 2024 - Extended Edition**
 
 ## 🏆 Achievements
 
